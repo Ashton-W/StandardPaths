@@ -1,0 +1,18 @@
+PODS:
+  - StandardPaths (1.6.4):
+    - StandardPaths/Swizzle (= 1.6.4)
+  - StandardPaths/NoSwizzle (1.6.4)
+  - StandardPaths/Swizzle (1.6.4)
+
+DEPENDENCIES:
+  - StandardPaths (from `../../`)
+  - StandardPaths/NoSwizzle (from `../../`)
+
+EXTERNAL SOURCES:
+  StandardPaths:
+    :path: ../../
+
+SPEC CHECKSUMS:
+  StandardPaths: c25c6415a863e648f99820506e06353cf06d0ef9
+
+COCOAPODS: 0.36.3
